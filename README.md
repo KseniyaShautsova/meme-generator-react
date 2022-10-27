@@ -15,7 +15,7 @@ React.js, Css, Html
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 Or you can open this project on Netlify with this link:  
-
+https://jolly-moxie-1e69c0.netlify.app/
 
 
 
